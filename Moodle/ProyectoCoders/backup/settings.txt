@@ -1,4 +1,0 @@
-Mover carpetas
-Copias archivos
-Borrar
-Salir
